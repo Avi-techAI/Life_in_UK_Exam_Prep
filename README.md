@@ -9,7 +9,7 @@ An interactive practice app for the UK "Life in the UK" citizenship test.
 
 ## Use it
 
-`index.html` is a single, self-contained page — open it in any browser, or enable **GitHub Pages** (Settings → Pages → deploy from the `main` branch root) to host it online.
+`index.html` is a single, self-contained page - open it in any browser, or enable **GitHub Pages** (Settings → Pages → deploy from the `main` branch root) to host it online.
 
 ## Files
 
