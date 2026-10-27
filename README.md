@@ -1,4 +1,4 @@
-# Life in the UK — Mock Exam
+# Life in the UK - Mock Exam
 
 An interactive practice app for the UK "Life in the UK" citizenship test.
 
@@ -17,3 +17,5 @@ An interactive practice app for the UK "Life in the UK" citizenship test.
 - `questions.json` — the question bank as data (`t` test, `q` question, `o` options, `a` correct index, `e` explanation, `c` topic).
 
 Questions deliberately avoid facts that have changed since the handbook was published.
+
+Follow my Account if you find this useful. Thanks :)
