@@ -1,4 +1,4 @@
-# Life in the UK - Mock Exam
+# Life in the UK -> Mock Exam
 
 An interactive practice app for the UK "Life in the UK" citizenship test.
 
