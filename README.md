@@ -13,8 +13,8 @@ An interactive practice app for the UK "Life in the UK" citizenship test.
 
 ## Files
 
-- `index.html` — the playable quiz (all questions embedded).
-- `questions.json` — the question bank as data (`t` test, `q` question, `o` options, `a` correct index, `e` explanation, `c` topic).
+- `index.html` - the playable quiz (all questions embedded).
+- `questions.json` - the question bank as data (`t` test, `q` question, `o` options, `a` correct index, `e` explanation, `c` topic).
 
 Questions deliberately avoid facts that have changed since the handbook was published.
 
